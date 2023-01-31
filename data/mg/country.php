@@ -81,7 +81,7 @@
   'HM' => 'Heard & McDonald Islands',
   'NL' => 'Holanda',
   'HN' => 'Hondiorasy',
-  'HK' => 'Hong Kong SAR China',
+  'HK' => 'Hong Kong, China',
   'HU' => 'Hongria',
   'ID' => 'Indonezia',
   'IN' => 'Indy',

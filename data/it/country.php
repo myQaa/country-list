@@ -221,7 +221,7 @@
   'CH' => 'Svizzera',
   'SZ' => 'Swaziland',
   'TJ' => 'Tagikistan',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'TZ' => 'Tanzania',
   'TF' => 'Terre australi francesi',
   'PS' => 'Territori palestinesi',

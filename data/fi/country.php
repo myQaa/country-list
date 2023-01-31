@@ -214,7 +214,7 @@
   'SZ' => 'Swazimaa',
   'SY' => 'Syyria',
   'TJ' => 'Tadžikistan',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'TZ' => 'Tansania',
   'DK' => 'Tanska',
   'TH' => 'Thaimaa',

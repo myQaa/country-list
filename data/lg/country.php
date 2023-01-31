@@ -95,7 +95,7 @@
   'HT' => 'Hayiti',
   'HM' => 'Heard & McDonald Islands',
   'NL' => 'Holandi',
-  'HK' => 'Hong Kong SAR China',
+  'HK' => 'Hong Kong, China',
   'HN' => 'Hundurasi',
   'IM' => 'Isle of Man',
   'JM' => 'Jamayika',

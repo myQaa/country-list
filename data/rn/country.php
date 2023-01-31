@@ -74,7 +74,7 @@
   'HM' => 'Heard & McDonald Islands',
   'ES' => 'Hisipaniya',
   'HN' => 'Hondurasi',
-  'HK' => 'Hong Kong SAR China',
+  'HK' => 'Hong Kong, China',
   'HU' => 'Hungariya',
   'VG' => 'Ibirwa by’isugi by’Abongereza',
   'CV' => 'Ibirwa bya Kapuveri',

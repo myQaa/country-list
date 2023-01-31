@@ -220,7 +220,7 @@
   'SR' => 'Suriname',
   'SJ' => 'Svalbard și Jan Mayen',
   'TJ' => 'Tadjikistan',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'TZ' => 'Tanzania',
   'TF' => 'Teritoriile Australe și Antarctice Franceze',
   'PS' => 'Teritoriile Palestiniene',

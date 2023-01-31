@@ -221,7 +221,7 @@
   'CH' => 'Švajčiarsko',
   'SE' => 'Švédsko',
   'TJ' => 'Tadžikistan',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'IT' => 'Taliansko',
   'TZ' => 'Tanzánia',
   'TH' => 'Thajsko',

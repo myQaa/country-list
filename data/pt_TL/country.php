@@ -223,7 +223,7 @@
   'SJ' => 'Svalbard e Jan Mayen',
   'TJ' => 'Tadjiquistão',
   'TH' => 'Tailândia',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'TZ' => 'Tanzânia',
   'CZ' => 'Tchéquia',
   'IO' => 'Território Britânico do Oceano Índico',

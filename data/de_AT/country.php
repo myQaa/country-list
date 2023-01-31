@@ -216,7 +216,7 @@
   'SJ' => 'Svalbard und Jan Mayen',
   'SY' => 'Syrien',
   'TJ' => 'Tadschikistan',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'TZ' => 'Tansania',
   'TH' => 'Thailand',
   'TL' => 'Timor-Leste',

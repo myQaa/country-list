@@ -216,7 +216,7 @@
   'SR' => 'Suriname',
   'SY' => 'Syrië',
   'TJ' => 'Tadzjikistan',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'TZ' => 'Tanzania',
   'TH' => 'Thailand',
   'TG' => 'Togo',

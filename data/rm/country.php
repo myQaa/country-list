@@ -224,7 +224,7 @@
   'SZ' => 'Swaziland',
   'TJ' => 'Tadschikistan',
   'TH' => 'Tailanda',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'TZ' => 'Tansania',
   'IO' => 'Territori Britannic en l’Ocean Indic',
   'PS' => 'Territori Palestinais',

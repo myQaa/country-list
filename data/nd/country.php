@@ -91,7 +91,7 @@
   'HT' => 'Hayiti',
   'HM' => 'Heard & McDonald Islands',
   'HN' => 'Honduras',
-  'HK' => 'Hong Kong SAR China',
+  'HK' => 'Hong Kong, China',
   'HU' => 'Hungary',
   'IS' => 'Iceland',
   'IN' => 'Indiya',

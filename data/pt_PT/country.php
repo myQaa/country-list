@@ -223,7 +223,7 @@
   'SR' => 'Suriname',
   'SJ' => 'Svalbard e Jan Mayen',
   'TH' => 'Tailândia',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'TJ' => 'Tajiquistão',
   'TZ' => 'Tanzânia',
   'IO' => 'Território Britânico do Oceano Índico',

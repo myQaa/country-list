@@ -92,7 +92,7 @@
   'IN' => 'Hindistan',
   'NL' => 'Holenda',
   'HN' => 'Hondûras',
-  'HK' => 'Hong Kong SAR China',
+  'HK' => 'Hong Kong, China',
   'IQ' => 'Iraq',
   'ID' => 'Îndonezya',
   'IR' => 'Îran',

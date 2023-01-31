@@ -219,7 +219,7 @@
   'CY' => 'Syprus',
   'SY' => 'Syrië',
   'TJ' => 'Tadzjikistan',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'TZ' => 'Tanzania',
   'TH' => 'Thailân',
   'TG' => 'Togo',

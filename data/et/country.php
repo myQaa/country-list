@@ -218,7 +218,7 @@
   'DK' => 'Taani',
   'TJ' => 'Tadžikistan',
   'TH' => 'Tai',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'TZ' => 'Tansaania',
   'TG' => 'Togo',
   'TK' => 'Tokelau',

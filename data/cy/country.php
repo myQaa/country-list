@@ -184,7 +184,7 @@
   'SD' => 'Swdan',
   'SE' => 'Sweden',
   'SY' => 'Syria',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'TJ' => 'Tajikistan',
   'TZ' => 'Tanzania',
   'TD' => 'Tchad',

@@ -218,7 +218,7 @@
   'SY' => 'Syria',
   'ST' => 'São Tomé ja Príncipe',
   'CH' => 'Šveica',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'TZ' => 'Tanzánia',
   'TJ' => 'Tažikistan',
   'TD' => 'Tčad',

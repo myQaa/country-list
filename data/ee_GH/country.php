@@ -211,7 +211,7 @@
   'SZ' => 'Swaziland nutome',
   'SE' => 'Sweden nutome',
   'CH' => 'Switzerland nutome',
-  'TW' => 'Taiwan nutome',
+  'TW' => 'Taiwan, China nutome',
   'TJ' => 'Tajikistan nutome',
   'TZ' => 'Tanzania nutome',
   'TR' => 'Tɛki nutome',

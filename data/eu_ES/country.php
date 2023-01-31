@@ -217,7 +217,7 @@
   'SR' => 'Surinam',
   'SJ' => 'Svalbard eta Jan Mayen uharteak',
   'SZ' => 'Swazilandia',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'TJ' => 'Tajikistan',
   'TZ' => 'Tanzania',
   'TH' => 'Thailandia',

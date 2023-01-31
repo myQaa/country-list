@@ -219,7 +219,7 @@
   'SE' => 'Swede',
   'CH' => 'Switserland',
   'TJ' => 'Tadjikistan',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'TZ' => 'Tanzanië',
   'TH' => 'Thailand',
   'TG' => 'Togo',

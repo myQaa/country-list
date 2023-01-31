@@ -218,7 +218,7 @@
   'SZ' => 'Swasiland',
   'SE' => 'Swèdhen',
   'CH' => 'Switserlan',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'TJ' => 'Tajikistan',
   'TH' => 'Tanah Thai',
   'TZ' => 'Tansania',

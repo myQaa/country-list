@@ -88,7 +88,7 @@
   'GT' => 'Gwaatemalaa',
   'HT' => 'Haytii',
   'HM' => 'Heard & McDonald Islands',
-  'HK' => 'Hong Kong SAR China',
+  'HK' => 'Hong Kong, China',
   'IQ' => 'Iraak',
   'IR' => 'Iraan',
   'IE' => 'Irlannda',

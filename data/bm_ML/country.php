@@ -84,7 +84,7 @@
   'GT' => 'Gwatemala',
   'GY' => 'Gwiyana',
   'HM' => 'Heard & McDonald Islands',
-  'HK' => 'Hong Kong SAR China',
+  'HK' => 'Hong Kong, China',
   'HN' => 'Hɔndirasi',
   'HU' => 'Hɔngri',
   'IQ' => 'Iraki',

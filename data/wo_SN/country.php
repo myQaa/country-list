@@ -89,7 +89,7 @@
   'GU' => 'Guwam',
   'GT' => 'Guwatemala',
   'GF' => 'Guyaan Farañse',
-  'HK' => 'Hong Kong SAR China',
+  'HK' => 'Hong Kong, China',
   'UA' => 'Ikeren',
   'ID' => 'Indonesi',
   'IQ' => 'Irag',

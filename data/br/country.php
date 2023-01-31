@@ -221,7 +221,7 @@
   'SJ' => 'Svalbard',
   'SE' => 'Sveden',
   'TJ' => 'Tadjikistan',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'TZ' => 'Tanzania',
   'TD' => 'Tchad',
   'CZ' => 'Tchekia',

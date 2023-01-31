@@ -87,7 +87,7 @@
   'IN' => 'Hindujo',
   'ES' => 'Hispanujo',
   'HN' => 'Honduro',
-  'HK' => 'Hong Kong SAR China',
+  'HK' => 'Hong Kong, China',
   'HU' => 'Hungarujo',
   'ID' => 'Indonezio',
   'IQ' => 'Irako',

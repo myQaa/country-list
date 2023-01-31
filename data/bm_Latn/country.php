@@ -86,7 +86,7 @@
   'GU' => 'Gwam',
   'GT' => 'Gwatemala',
   'GY' => 'Gwiyana',
-  'HK' => 'Hong Kong SAR China',
+  'HK' => 'Hong Kong, China',
   'HN' => 'Hɔndirasi',
   'HU' => 'Hɔngri',
   'IQ' => 'Iraki',

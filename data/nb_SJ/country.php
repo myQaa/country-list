@@ -215,7 +215,7 @@
   'KR' => 'Sør-Korea',
   'SS' => 'Sør-Sudan',
   'TJ' => 'Tadsjikistan',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'TZ' => 'Tanzania',
   'TH' => 'Thailand',
   'TG' => 'Togo',

@@ -216,7 +216,7 @@
   'SR' => 'Suriname',
   'SE' => 'Swedia',
   'CH' => 'Swiss',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'TJ' => 'Tajikistan',
   'CV' => 'Tanjung Verde',
   'TZ' => 'Tanzania',

@@ -214,7 +214,7 @@
   'SS' => 'Sydsudan',
   'SY' => 'Syrien',
   'TJ' => 'Tadsjikistan',
-  'TW' => 'Taiwan',
+  'TW' => 'Taiwan, China',
   'TZ' => 'Tanzania',
   'TD' => 'Tchad',
   'TH' => 'Thailand',
