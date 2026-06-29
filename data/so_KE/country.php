@@ -89,7 +89,7 @@
   'HU' => 'Hangari',
   'IN' => 'Hindiya',
   'HN' => 'Honduras',
-  'HK' => Hong Kong, China,
+  'HK' => 'Hong Kong, China',
   'IR' => 'Iiraan',
   'EC' => 'Ikuwadoor',
   'AE' => 'Imaaraadka Carabta ee Midoobay',
